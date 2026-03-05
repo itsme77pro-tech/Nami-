@@ -1,5 +1,0 @@
-aiohttp
-pandas
-numpy
-pytz
-ccxt
