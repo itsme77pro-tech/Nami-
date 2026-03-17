@@ -15,6 +15,7 @@ import hashlib
 import time
 import pytz
 import warnings
+import html
 import sqlite3
 from dataclasses import dataclass, field, asdict
 from collections import namedtuple
