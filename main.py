@@ -17,6 +17,7 @@ import pytz
 import warnings
 import sqlite3
 from dataclasses import dataclass, field, asdict
+from collections import namedtuple
 from typing import Optional, Tuple, List, Dict, Literal, Callable, Any, Union
 from datetime import datetime, timedelta
 from enum import Enum, auto
