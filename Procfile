@@ -1,1 +1,1 @@
-python3 /workspace/main.py
+worker: python3 main.py
