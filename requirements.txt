@@ -2,4 +2,5 @@ aiohttp
 pandas
 numpy
 pytz
-ccxt 
+ccxt
+scipy
